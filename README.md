@@ -1,4 +1,7 @@
+
 # Spring Boot and Gradle
+[![Build Status](https://travis-ci.com/drodbar/springboot-gradle.svg?branch=master)](https://travis-ci.com/drodbar/springboot-gradle)
+
 
 This is just a demo project to test gradle as a build tool for Java and more concretely Spring Boot. 
 
