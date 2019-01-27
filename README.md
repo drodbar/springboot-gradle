@@ -16,7 +16,7 @@ This project uses:
 * Gradle 5.1.1
 
 
-##Trying it
+## Trying it
 
 You can run the project using gradle via:
 
